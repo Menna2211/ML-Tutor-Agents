@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 import time
 from agents import Runner
-from MLagents.AIagents import initialize_agents
+from AIagents import initialize_agents
 
 # Page configuration
 st.set_page_config(
