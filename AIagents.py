@@ -10,10 +10,8 @@ vector_store_id = "vs_682cb69bf5d08191b77f78f2693aa591"
 
 def load_agent_config(yaml_file_path):
     """Load agent configuration from YAML file."""
-    base_path = r"E:\AzureFunctions\Assistants\AgentAIAzure\MLagents"
-    full_path = os.path.join(base_path, yaml_file_path)
     
-    with open(full_path, 'r', encoding="utf-8") as file:
+    with open(yaml_file_path, 'r', encoding="utf-8") as file:
         return yaml.safe_load(file)
 
 def initialize_agents(api_key):
@@ -23,7 +21,7 @@ def initialize_agents(api_key):
     
     # Initialize the model with the provided API key
     llm_model = OpenAIResponsesModel(
-        model="gpt-4o-mini",  # Fixed model name
+        model="gpt-4.1-mini", 
         openai_client=AsyncOpenAI(api_key=api_key)
     )
     
