@@ -1,0 +1,412 @@
+{
+    "SubjectName": "Machine Learning",
+    "VectorStoreId": "vs_682cb69bf5d08191b77f78f2693aa591",
+    "CourseSchedule": {
+        "CourseName": "Machine Learning",
+        "TotalWeeks": 12,
+        "StartDate": "2025-09-01",
+        "EndDate": "2025-11-24",
+        "Schedule": [
+            {
+                "WeekNumber": 1,
+                "StartDate": "2025-09-01",
+                "EndDate": "2025-09-07",
+                "Topics": [
+                    "Introduction to Machine Learning",
+                    "Overview of Algorithms"
+                ],
+                "skills": {
+                    "Python": 8.3,
+                    "Statistics": 33.3,
+                    "Linear Algebra": 25.0
+                },
+                "readings": [
+                    "Chapter 1: Definitions and Geometry",
+                    "Chapter 5: Statistical Learning"
+                ],
+                "learningObjectives": [
+                    "Understand basic concepts of Machine Learning",
+                    "Familiarize with statistical methods used in ML"
+                ]
+            },
+            {
+                "WeekNumber": 2,
+                "StartDate": "2025-09-08",
+                "EndDate": "2025-09-14",
+                "Topics": [
+                    "Data Preprocessing",
+                    "Linear Regression"
+                ],
+                "skills": {
+                    "Python": 16.7,
+                    "Statistics": 16.7,
+                    "Linear Algebra": 25.0
+                },
+                "readings": [
+                    "Chapter 2: Data Handling",
+                    "Chapter 4: Regression Techniques"
+                ],
+                "learningObjectives": [
+                    "Prepare datasets for analysis",
+                    "Implement linear regression models"
+                ]
+            },
+            {
+                "WeekNumber": 3,
+                "StartDate": "2025-09-15",
+                "EndDate": "2025-09-21",
+                "Topics": [
+                    "Loss Functions",
+                    "Regularization Techniques"
+                ],
+                "skills": {
+                    "Regression": 50.0,
+                    "Statistics": 16.7
+                },
+                "readings": [
+                    "Chapter 3: Understanding Loss Functions"
+                ],
+                "learningObjectives": [
+                    "Comprehend various loss functions",
+                    "Apply regularization concepts"
+                ]
+            },
+            {
+                "WeekNumber": 4,
+                "StartDate": "2025-09-22",
+                "EndDate": "2025-09-28",
+                "Topics": [
+                    "Classification Algorithms",
+                    "Logistic Regression"
+                ],
+                "skills": {
+                    "Linear Classification": 100,
+                    "Python": 8.3
+                },
+                "readings": [
+                    "Chapter 5: Introducing Classification"
+                ],
+                "learningObjectives": [
+                    "Differentiate between classification methods",
+                    "Implement logistic regression"
+                ]
+            },
+            {
+                "WeekNumber": 5,
+                "StartDate": "2025-09-29",
+                "EndDate": "2025-10-05",
+                "Topics": [
+                    "Decision Trees",
+                    "Tree-Based Models"
+                ],
+                "skills": {
+                    "Decision Trees": 50.0,
+                    "Python": 8.3
+                },
+                "readings": [
+                    "Chapter 6: Decision Trees"
+                ],
+                "learningObjectives": [
+                    "Build decision tree models",
+                    "Evaluate tree-based methods"
+                ]
+            },
+            {
+                "WeekNumber": 6,
+                "StartDate": "2025-10-06",
+                "EndDate": "2025-10-12",
+                "Topics": [
+                    "Ensemble Methods",
+                    "Random Forests"
+                ],
+                "skills": {
+                    "Decision Trees": 25.0,
+                    "Python": 16.7
+                },
+                "readings": [
+                    "Chapter 7: Ensemble Learning"
+                ],
+                "learningObjectives": [
+                    "Understand the principles of ensemble learning",
+                    "Implement random forests"
+                ]
+            },
+            {
+                "WeekNumber": 7,
+                "StartDate": "2025-10-13",
+                "EndDate": "2025-10-19",
+                "Topics": [
+                    "Neural Networks Fundamentals",
+                    "Feedforward Neural Networks"
+                ],
+                "skills": {
+                    "Neural Networks": 25.0,
+                    "Linear Algebra": 25.0,
+                    "Python": 8.3
+                },
+                "readings": [
+                    "Chapter 8: Introduction to Neural Networks"
+                ],
+                "learningObjectives": [
+                    "Understand the architecture of neural networks",
+                    "Get familiar with activation functions"
+                ]
+            },
+            {
+                "WeekNumber": 8,
+                "StartDate": "2025-10-20",
+                "EndDate": "2025-10-26",
+                "Topics": [
+                    "Training Neural Networks",
+                    "Backpropagation"
+                ],
+                "skills": {
+                    "Neural Networks": 25.0,
+                    "Linear Algebra": 25.0
+                },
+                "readings": [
+                    "Chapter 9: Training Neural Networks"
+                ],
+                "learningObjectives": [
+                    "Implement backpropagation",
+                    "Optimize weights in neural networks"
+                ]
+            },
+            {
+                "WeekNumber": 9,
+                "StartDate": "2025-10-27",
+                "EndDate": "2025-11-02",
+                "Topics": [
+                    "Deep Learning Concepts",
+                    "Convolutional Neural Networks"
+                ],
+                "skills": {
+                    "Neural Networks": 25.0,
+                    "Python": 8.3
+                },
+                "readings": [
+                    "Chapter 10: Introduction to Deep Learning"
+                ],
+                "learningObjectives": [
+                    "Understand deep learning principles",
+                    "Build a simple CNN model"
+                ]
+            },
+            {
+                "WeekNumber": 10,
+                "StartDate": "2025-11-03",
+                "EndDate": "2025-11-09",
+                "Topics": [
+                    "Evaluation Metrics",
+                    "Model Selection"
+                ],
+                "skills": {
+                    "Statistics": 33.3,
+                    "Regression": 25.0
+                },
+                "readings": [
+                    "Chapter 11: Model Evaluation"
+                ],
+                "learningObjectives": [
+                    "Understand various evaluation metrics",
+                    "Select appropriate models based on evaluation"
+                ]
+            },
+            {
+                "WeekNumber": 11,
+                "StartDate": "2025-11-10",
+                "EndDate": "2025-11-16",
+                "Topics": [
+                    "Final Project Work",
+                    "Integration of Topics"
+                ],
+                "skills": {
+                    "Python": 16.7,
+                    "Neural Networks": 12.5,
+                    "Regression": 25.0
+                },
+                "readings": [
+                    "Project Guidelines"
+                ],
+                "learningObjectives": [
+                    "Integrate knowledge from previous weeks",
+                    "Work collaboratively on final projects"
+                ]
+            },
+            {
+                "WeekNumber": 12,
+                "StartDate": "2025-11-17",
+                "EndDate": "2025-11-24",
+                "Topics": [
+                    "Course Review",
+                    "Future of Machine Learning"
+                ],
+                "skills": {
+                    "Python": 8.3,
+                    "Neural Networks": 12.5,
+                    "Decision Trees": 25.0
+                },
+                "readings": [
+                    "Course Summary Materials"
+                ],
+                "learningObjectives": [
+                    "Review key concepts",
+                    "Discuss future trends in machine learning"
+                ]
+            }
+        ],
+        "skillsTotalDistribution": {
+            "Linear Algebra": {
+                "Week 1": 25.0,
+                "Week 2": 25.0,
+                "Week 3": 0,
+                "Week 4": 0,
+                "Week 5": 0,
+                "Week 6": 0,
+                "Week 7": 25.0,
+                "Week 8": 25.0,
+                "Week 9": 0,
+                "Week 10": 0,
+                "Week 11": 0,
+                "Week 12": 0
+            },
+            "Probability": {
+                "Week 1": 0,
+                "Week 2": 0,
+                "Week 3": 0,
+                "Week 4": 0,
+                "Week 5": 0,
+                "Week 6": 0,
+                "Week 7": 0,
+                "Week 8": 0,
+                "Week 9": 0,
+                "Week 10": 0,
+                "Week 11": 0,
+                "Week 12": 0
+            },
+            "Statistics": {
+                "Week 1": 33.3,
+                "Week 2": 16.7,
+                "Week 3": 16.7,
+                "Week 4": 0,
+                "Week 5": 0,
+                "Week 6": 0,
+                "Week 7": 0,
+                "Week 8": 0,
+                "Week 9": 0,
+                "Week 10": 33.3,
+                "Week 11": 0,
+                "Week 12": 0
+            },
+            "Python": {
+                "Week 1": 8.3,
+                "Week 2": 16.7,
+                "Week 3": 0,
+                "Week 4": 8.3,
+                "Week 5": 8.3,
+                "Week 6": 16.7,
+                "Week 7": 8.3,
+                "Week 8": 0,
+                "Week 9": 8.3,
+                "Week 10": 0,
+                "Week 11": 16.7,
+                "Week 12": 8.3
+            },
+            "Regression": {
+                "Week 1": 0,
+                "Week 2": 0,
+                "Week 3": 50.0,
+                "Week 4": 0,
+                "Week 5": 0,
+                "Week 6": 0,
+                "Week 7": 0,
+                "Week 8": 0,
+                "Week 9": 0,
+                "Week 10": 25.0,
+                "Week 11": 25.0,
+                "Week 12": 0
+            },
+            "Linear Classification": {
+                "Week 1": 0,
+                "Week 2": 0,
+                "Week 3": 0,
+                "Week 4": 100,
+                "Week 5": 0,
+                "Week 6": 0,
+                "Week 7": 0,
+                "Week 8": 0,
+                "Week 9": 0,
+                "Week 10": 0,
+                "Week 11": 0,
+                "Week 12": 0
+            },
+            "Decision Trees": {
+                "Week 1": 0,
+                "Week 2": 0,
+                "Week 3": 0,
+                "Week 4": 0,
+                "Week 5": 50.0,
+                "Week 6": 25.0,
+                "Week 7": 0,
+                "Week 8": 0,
+                "Week 9": 0,
+                "Week 10": 0,
+                "Week 11": 0,
+                "Week 12": 25.0
+            },
+            "Neural Networks": {
+                "Week 1": 0,
+                "Week 2": 0,
+                "Week 3": 0,
+                "Week 4": 0,
+                "Week 5": 0,
+                "Week 6": 0,
+                "Week 7": 25.0,
+                "Week 8": 25.0,
+                "Week 9": 25.0,
+                "Week 10": 0,
+                "Week 11": 12.5,
+                "Week 12": 12.5
+            }
+        }
+    },
+    "SkillValidation": {
+        "Linear Algebra": {
+            "total_percentage": 100.0,
+            "is_valid": true
+        },
+        "Probability": {
+            "total_percentage": 0,
+            "is_valid": false
+        },
+        "Statistics": {
+            "total_percentage": 100.0,
+            "is_valid": true
+        },
+        "Python": {
+            "total_percentage": 99.89999999999999,
+            "is_valid": false
+        },
+        "Regression": {
+            "total_percentage": 100.0,
+            "is_valid": true
+        },
+        "Linear Classification": {
+            "total_percentage": 100,
+            "is_valid": true
+        },
+        "Decision Trees": {
+            "total_percentage": 100.0,
+            "is_valid": true
+        },
+        "Neural Networks": {
+            "total_percentage": 100.0,
+            "is_valid": true
+        }
+    },
+    "AgentInfo": {
+        "AgentName": "Course Schedule Planner",
+        "Model": "gpt-4o-mini",
+        "ToolsUsed": 2
+    }
+}
